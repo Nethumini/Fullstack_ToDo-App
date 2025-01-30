@@ -70,3 +70,9 @@ input{
 .container h1{
   font-family: 'papyrus';
 }
+
+.top input::placeholder {
+  font-style: italic;
+  color: gray;
+
+}

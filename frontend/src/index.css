@@ -66,3 +66,7 @@ input{
   cursor: pointer;
   font-size: 20px;
 }
+
+.container h1{
+  font-family: 'papyrus';
+}
